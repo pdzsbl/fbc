@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "x+Ecl6/4LuPUsiHtuHP6Jc4pKf0=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "46351a8892976898935f653f5333782579a96fa5",
+			"revisionTime": "2020-08-18T11:12:13Z"
+		}
+	],
+	"rootPath": "github.com/hyperledger/fabric"
+}
